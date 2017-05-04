@@ -1,6 +1,6 @@
 @echo off
 
-set version=1.0
+set version=1.1
 set PackageFile=recoder-%version%.ospx
 
 call opm build .
